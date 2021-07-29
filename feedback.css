@@ -1,0 +1,28 @@
+/* START FEEDBACK 07-28 */
+.layout--home {
+    background: #F5F5F5;
+}
+
+.layout--home .module-links--nav .module-links_list > li {
+    background: #fff;
+}
+
+.layout--home .background--white {
+    background: #fff;
+    padding: 50px 20px;
+}
+
+.layout--home .module-latest-boxes:before {
+    display:none;
+}
+
+
+.layout--home .module-latest-boxes_item:nth-child(odd) {
+    padding-right: 10px;
+}
+
+.layout--home .module-latest-boxes_item:nth-child(even) {
+    padding-left: 10px;
+}
+
+/* END FEEDBACK 07-28 */
